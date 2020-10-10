@@ -7,7 +7,6 @@ class Calls extends StatefulWidget {
 class CallsState extends State<Calls> {
   @override
   Widget build(BuildContext context) {
-    // TODO: implement build
     return ListView(
       children: <Widget>[
         ListTile(

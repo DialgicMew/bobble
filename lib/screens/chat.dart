@@ -238,6 +238,7 @@ class _ChatScreenState extends State<ChatScreen> {
                               }
                             },
                             child: IconButton(
+                              onPressed: () {},
                               icon: Icon(
                                 Icons.send,
                                 color: Colors.white,

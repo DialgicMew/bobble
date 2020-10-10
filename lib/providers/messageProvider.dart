@@ -1,6 +1,5 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import '../models/message.dart';
 
 class NameProvider with ChangeNotifier, DiagnosticableTreeMixin {
