@@ -44,11 +44,12 @@ Step 4: Enjoy!
 
 ## Screenshots
 
-<img src="https://user-images.githubusercontent.com/40224476/95656305-23f9ba00-0b2b-11eb-8137-a9523c7a2a57.png" width="250" height="440">
-<img src="https://user-images.githubusercontent.com/40224476/95656337-6fac6380-0b2b-11eb-97b1-afd933e878d6.png" width="250" height="440">
 <img src="https://user-images.githubusercontent.com/40224476/95656338-70dd9080-0b2b-11eb-9f6d-1bb069b38079.png" width="250" height="440">
 <img src="https://user-images.githubusercontent.com/40224476/95656339-71762700-0b2b-11eb-9cff-c597cc93dc60.png" width="250" height="440">
 <img src="https://user-images.githubusercontent.com/40224476/95656341-72a75400-0b2b-11eb-9c20-269b13c38bda.png" width="250" height="440">
+<img src="https://user-images.githubusercontent.com/40224476/95656305-23f9ba00-0b2b-11eb-8137-a9523c7a2a57.png" width="250" height="440">
+<img src="https://user-images.githubusercontent.com/40224476/95656337-6fac6380-0b2b-11eb-97b1-afd933e878d6.png" width="250" height="440">
+
 
 
 
